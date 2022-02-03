@@ -6,6 +6,7 @@ public class main {
         first.containersInTruck(first.containers);
         first.printAll();
         first.numbering();
+        System.out.println("Get the fuck out!");
 
     }
 }
